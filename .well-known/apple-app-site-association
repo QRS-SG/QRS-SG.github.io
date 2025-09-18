@@ -1,0 +1,42 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "2NG55DZKXU.sg.com.transitlink",
+          "appStoreID": "667933103",
+          "paths": [
+              "/uma-app/ewallet/detail",
+              "/uma-app/reward/home",
+              "/uma-app/ewallet/third-party-pay",
+              "/uma-app/*",
+              "/uma-app/ewallet/detail/cimb",
+              "/uma-app/travel-guide/bus-stop",
+              "/uma-app/topup",
+              "/uma-app/ewallet/pbw",
+              "/uma-app/motoring",
+              "/uma-app/reward/ezl-rewards",
+              "/uma-app/ewallet/sgqr"
+          ]
+        },
+        {
+          "appID": "P6VCGSUT94.sg.com.transitlink",
+          "appStoreID": "667933103",
+          "paths": [
+              "/uma-app/ewallet/detail",
+              "/uma-app/reward/home",
+              "/uma-app/ewallet/third-party-pay",
+              "/uma-app/*",
+              "/uma-app/ewallet/detail/cimb",
+              "/uma-app/travel-guide/bus-stop",
+              "/uma-app/topup",
+              "/uma-app/ewallet/pbw",
+              "/uma-app/motoring",
+              "/uma-app/reward/ezl-rewards",
+              "/uma-app/ewallet/sgqr"
+          ]
+        }
+      ]
+    }
+  }
+  
