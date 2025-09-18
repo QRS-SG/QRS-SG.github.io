@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "sg.com.transitlink",
+        "sha256_cert_fingerprints": [
+          "AD:A3:A9:78:1A:71:D8:86:59:46:81:66:AA:B3:EC:0F:92:CB:95:0D:8E:8B:0E:7D:FD:4F:51:7D:97:D9:C7:A1"
+        ]
+      }
+    }
+  ]
