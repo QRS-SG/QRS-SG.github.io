@@ -47,6 +47,12 @@ jobs:
         run: |
           mkdocs build --site-dir site/documentation
 
+      - name: Copy main site files
+        run: |
+          cp index.html site/
+          cp _config.yml site/
+          if [ -d ".well-known" ]; then cp -r .well-known site/; fi
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
